@@ -1,8 +1,8 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy Pablo Alonso
+# 👋 ¡Hi! I'm Pablo Alonso
 
-### 💻 Desarrollador Full Stack 
+### 💻 Full Stack Developer 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alonso-garc%C3%ADa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pabalons.com)
@@ -12,7 +12,7 @@
 
 ---
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Tech Stack
 
 ### 💻 Frontend
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
@@ -27,7 +27,7 @@
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 
-### 🗄️ Bases de Datos
+### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
@@ -39,7 +39,7 @@
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
-### 🛠️ Herramientas
+### 🛠️ Tools
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
@@ -47,7 +47,7 @@
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Github Stats
 
 <div align="center">
   
@@ -59,9 +59,8 @@
 
 ---
 
-## 🚀 Proyectos Destacados
+## 🚀 Featured Proyects
 
-- 🌟 **[Nombre del Proyecto 1](https://github.com/tu-usuario/repo-1)** - Descripción breve del proyecto
 - 🚀 **[Nombre del Proyecto 2](https://github.com/tu-usuario/repo-2)** - Descripción breve del proyecto
 - 💻 **[Nombre del Proyecto 3](https://github.com/tu-usuario/repo-3)** - Descripción breve del proyecto
 - 🔥 **[Nombre del Proyecto 4](https://github.com/tu-usuario/repo-4)** - Descripción breve del proyecto
@@ -71,11 +70,11 @@
 
 ---
 
-## 🤝 Colaboremos
+## 🤝 Let's colab
 
-¿Tienes un proyecto interesante? ¡Me encantaría colaborar!
+Do you have an interesting project? I'd love to collaborate!
 
-- 🌱 Buscando contribuir a proyectos Open Source
+- 🌱 Seeking to contribute to Open Source projects
 
 <div align="center">
 
