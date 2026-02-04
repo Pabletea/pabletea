@@ -4,7 +4,7 @@
 
 ### 💻 Desarrollador Full Stack | 🚀 Apasionado por la Tecnología
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)]([tu-linkedin](https://www.linkedin.com/in/pablo-alonso-garc%C3%ADa/))
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alonso-garc%C3%ADa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pabalons.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
 
