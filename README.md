@@ -61,11 +61,11 @@
 
 ## 🚀 Featured Proyects
 
-- 🚀 **[Nombre del Proyecto 2](https://github.com/tu-usuario/repo-2)** - Descripción breve del proyecto
-- 💻 **[Nombre del Proyecto 3](https://github.com/tu-usuario/repo-3)** - Descripción breve del proyecto
-- 🔥 **[Nombre del Proyecto 4](https://github.com/tu-usuario/repo-4)** - Descripción breve del proyecto
-- ⚡ **[Nombre del Proyecto 5](https://github.com/tu-usuario/repo-5)** - Descripción breve del proyecto
-- 🎨 **[Nombre del Proyecto 6](https://github.com/tu-usuario/repo-6)** - Descripción breve del proyecto
+- 🚀 **[TODO](https://github.com/tu-usuario/repo-2)** - TODO
+- 🚀 **[TODO](https://github.com/tu-usuario/repo-2)** - TODO
+- 🚀 **[TODO](https://github.com/tu-usuario/repo-2)** - TODO
+- 🚀 **[TODO](https://github.com/tu-usuario/repo-2)** - TODO
+- 🚀 **[TODO](https://github.com/tu-usuario/repo-2)** - TODO
 
 
 ---
