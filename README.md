@@ -77,37 +77,13 @@ const desarrollador = {
 
 ## 🚀 Proyectos Destacados
 
-<div align="center">
+- 🌟 **[Nombre del Proyecto 1](https://github.com/tu-usuario/repo-1)** - Descripción breve del proyecto
+- 🚀 **[Nombre del Proyecto 2](https://github.com/tu-usuario/repo-2)** - Descripción breve del proyecto
+- 💻 **[Nombre del Proyecto 3](https://github.com/tu-usuario/repo-3)** - Descripción breve del proyecto
+- 🔥 **[Nombre del Proyecto 4](https://github.com/tu-usuario/repo-4)** - Descripción breve del proyecto
+- ⚡ **[Nombre del Proyecto 5](https://github.com/tu-usuario/repo-5)** - Descripción breve del proyecto
+- 🎨 **[Nombre del Proyecto 6](https://github.com/tu-usuario/repo-6)** - Descripción breve del proyecto
 
-### 🌟 [Nombre del Proyecto 1](link-proyecto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-repo&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](link-proyecto)
-
-**Descripción:** Plataforma web completa para [descripción breve]. Desarrollada con React, Node.js y MongoDB.
-- ⚡ Características principales
-- 🎨 UI/UX moderna y responsive
-- 🔐 Autenticación segura con JWT
-
----
-
-### 🌟 [Nombre del Proyecto 2](link-proyecto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-repo2&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](link-proyecto)
-
-**Descripción:** Aplicación móvil para [descripción breve]. Stack: React Native, Firebase.
-- 📱 Multiplataforma (iOS/Android)
-- 🔄 Sincronización en tiempo real
-- 💾 Almacenamiento offline
-
----
-
-### 🌟 [Nombre del Proyecto 3](link-proyecto)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=tu-usuario&repo=nombre-repo3&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)](link-proyecto)
-
-**Descripción:** API REST escalable para [descripción breve]. Tecnologías: Python, FastAPI, PostgreSQL.
-- 🚀 Alto rendimiento
-- 📚 Documentación automática con Swagger
-- 🧪 Testing completo
-
-</div>
 
 ---
 
