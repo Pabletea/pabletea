@@ -9,6 +9,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tu-email)
 
 </div>
+
 ---
 
 ## 🛠️ Stack Tecnológico
@@ -81,6 +82,6 @@
 <div align="center">
 
 
-⭐️ From [Pabletea](https://github.com/tu-usuario) with ❤️
+⭐️ From [pabletea](https://github.com/tu-usuario) with ❤️
 
 </div>
