@@ -74,65 +74,15 @@
 
 ---
 
-## 📈 Actividad Reciente
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
-
----
-
-## 💡 Filosofía de Desarrollo
-
-> "El código limpio no se escribe siguiendo reglas. Se escribe con cuidado, dedicación y atención al detalle."
-
-```python
-def mi_enfoque():
-    principios = {
-        'código_limpio': True,
-        'testing': 'siempre',
-        'documentación': 'clara y concisa',
-        'aprendizaje': 'continuo',
-        'colaboración': 'en equipo'
-    }
-    return principios
-```
-
----
-
-## 🎯 Objetivos 2025
-
-- [ ] Contribuir a más proyectos Open Source
-- [ ] Aprender y dominar nuevas tecnologías cloud
-- [ ] Publicar artículos técnicos
-- [ ] Mentorizar a desarrolladores junior
-- [ ] Completar certificaciones profesionales
-
----
-
 ## 🤝 Colaboremos
 
 ¿Tienes un proyecto interesante? ¡Me encantaría colaborar!
 
-- 💼 Disponible para proyectos freelance
 - 🌱 Buscando contribuir a proyectos Open Source
-- 💬 Pregúntame sobre desarrollo web, arquitectura de software o cualquier tech stack
-
----
 
 <div align="center">
 
-### 💭 Frase del Día
 
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
-
-### 👀 Visitas al Perfil
-
-![Visitor Count](https://profile-counter.glitch.me/tu-usuario/count.svg)
-
----
-
-⭐️ From [tu-usuario](https://github.com/tu-usuario) with ❤️
+⭐️ From [Pabletea](https://github.com/tu-usuario) with ❤️
 
 </div>
