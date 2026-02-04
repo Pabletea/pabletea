@@ -1,4 +1,4 @@
-<div align="center">
+
   
 # 👋 ¡Hi! I'm Pablo Alonso
 
@@ -8,7 +8,6 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pabalons.com)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:pabloalonsogarc@gmail.com)
 
-</div>
 
 ---
 
