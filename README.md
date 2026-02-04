@@ -2,7 +2,7 @@
   
 # 👋 ¡Hola! Soy Pablo Alonso
 
-### 💻 Desarrollador Full Stack | 🚀 Apasionado por la Tecnología
+### 💻 Desarrollador Full Stack 
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pablo-alonso-garc%C3%ADa/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white)](https://www.pabalons.com)
@@ -51,11 +51,9 @@
 
 <div align="center">
   
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=tu-usuario&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=tu-usuario&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F8D866&fire=F85D7F&currStreakLabel=F8D866)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tu-usuario&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&text_color=FFF)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api?username=Pabletea&show_icons=true)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/streak?username=Pabletea)
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pabletea&layout=compact)
 
 </div>
 
