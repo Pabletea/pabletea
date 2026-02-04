@@ -16,14 +16,11 @@
 
 ```javascript
 const desarrollador = {
-    nombre: "Tu Nombre",
+    nombre: "Pablo Alonso",
     rol: "Full Stack Developer",
-    ubicación: "Tu Ciudad, País",
-    código: ["JavaScript", "TypeScript", "Python", "Java"],
+    ubicación: "Madrid, Spain",
+    código: ["Java", "Python", "C", "Javascript", "Rust"],
     herramientas: ["React", "Node.js", "Docker", "AWS"],
-    arquitectura: ["microservicios", "arquitectura de eventos", "diseño de sistemas"],
-    actualmenteTrabajando: "Construyendo soluciones innovadoras",
-    aprendiendo: "IA/ML, Web3, Cloud Architecture"
 };
 ```
 
@@ -39,7 +36,7 @@ const desarrollador = {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### ⚙️ Backend
-![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![SpringBoot](https://img.shields.io/badge/SpringBoot-6DB33F?style=for-the-badge&logo=Spring&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
