@@ -1,6 +1,6 @@
 <div align="center">
   
-# 👋 ¡Hola! Soy [Tu Nombre]
+# 👋 ¡Hola! Soy Pablo Alonso
 
 ### 💻 Desarrollador Full Stack | 🚀 Apasionado por la Tecnología
 
@@ -11,19 +11,6 @@
 </div>
 
 ---
-
-## 🚀 Sobre Mí
-
-```javascript
-const desarrollador = {
-    nombre: "Pablo Alonso",
-    rol: "Full Stack Developer",
-    ubicación: "Madrid, Spain",
-    código: ["Java", "Python", "C", "Javascript", "Rust"],
-    herramientas: ["React", "Node.js", "Docker", "AWS"],
-};
-```
-
 ---
 
 ## 🛠️ Stack Tecnológico
