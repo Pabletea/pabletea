@@ -10,6 +10,7 @@
 
 </div>
 ---
+
 ## 🛠️ Stack Tecnológico
 
 ### 💻 Frontend
