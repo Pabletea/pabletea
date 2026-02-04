@@ -82,6 +82,6 @@
 <div align="center">
 
 
-⭐️ From [pabletea](https://github.com/tu-usuario) with ❤️
+⭐️ From [Pabletea](https://github.com/pabletea) with ❤️
 
 </div>
