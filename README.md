@@ -19,7 +19,7 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
+<p>
 <img src="https://github-readme-stats-fast.vercel.app/api?username=Pabletea&show_icons=true&theme=default&hide_border=true" height="165">
 <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Pabletea&layout=compact&hide_border=true" height="165">
 </p>
