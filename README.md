@@ -25,7 +25,7 @@
 </p>
 
 ## 🚀 Featured Projects
-- **[TODO](https://github.com/tu-usuario/repo-1)** - Description
+- **[StreamSculptor](https://github.com/Pabletea/StreamSculptor)** - AI Multimodal Highlights & Content Studio
 - **[TODO](https://github.com/tu-usuario/repo-2)** - Description
 - **[TODO](https://github.com/tu-usuario/repo-3)** - Description
 
